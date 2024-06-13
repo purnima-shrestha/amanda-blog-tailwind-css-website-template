@@ -1,3 +1,7 @@
+DEMO:
+https://templatesjungle.com/downloads/amanda-lifestyle-blog-tailwind-css-website-template/
+
+
 HOW TO START:
 (write in terminal)
 1. npm init -y
